@@ -2,5 +2,9 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="englandBlue">#B2DAF7</color>
+    <color name="englandRed">#D40000</color>
+    <color name="englandWhite">#FEFEE9</color>
+    <color name="englandGreen">#0EA409</color>
 </resources>

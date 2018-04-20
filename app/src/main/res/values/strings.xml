@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Know England</string>
+    <string name="title">United Kingdom</string>
+    <string name="button1">Learn the Shires!</string>
+    <string name="chosenMap">The random map</string>
+    <string name="correct">\u0020\u0020That\'s correct!\u0020\u0020</string>
+    <string name="wrong">\u0020\u0020You\'re wrong!\u0020\u0020</string>
+    <string name="ende">You got\n %1$d out of %2$d \n %3$.2f %%</string>
 </resources>
